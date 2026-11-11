@@ -10,7 +10,6 @@ next-env.d.ts
 # secrets: never commit these
 .env
 .env.local
-.env.example
 .env.*.local
 
 # vercel
